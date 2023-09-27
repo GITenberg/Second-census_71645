@@ -1,0 +1,26 @@
+_repo: Second-census_71645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peterson, John Victor
+    alias: Valding, Victor
+    gutenberg_agent_id: '33468'
+    url: http://www.gutenberg.org/2009/agents/33468
+description: ''
+gutenberg_issued: '2023-09-14'
+identifiers:
+  gutenberg: '71645'
+language: en
+pgterms:marc905: 20230820102027peterson
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Second census
+url: http://www.gutenberg.org/ebooks/71645
